@@ -53,4 +53,6 @@ Hi Barbie!
 3. Presentation of Data
 4. Stakeholders
 
+We would also like to acknowledge our use of Git Copilot as well as Chat GPT 3.5 to help us debug the code.
+
 
