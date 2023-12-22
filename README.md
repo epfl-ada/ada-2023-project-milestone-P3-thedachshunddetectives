@@ -44,9 +44,9 @@ Hi Barbie!
 | ------------- | ------------- |
 | Emi  | Website & Datastory, Character Analysis: data processing and plot generation |
 | Sophie | Website & Datastory, Character analysis: data processing and plot visualization |
-| Marin|  Website Making, Data processing, Clustering, Plot Making, Final Notebook merge, commenting code |
+| Marin|  Website Making, Data processing, Clustering, Causal Analysis: Data Processing, Plot Generation|
 | Andrew|  Genre Analysis: Raw data processing, Sentiment analysis, processing, Plot generation|
-| Thomas|  Website Making & Data Visualization, Causal Analysis: Data Processing, Plot Generation,  |
+| Thomas|  Website Making & Data Visualization, Causal Analysis: Data Processing, Plot Generation  |
 
 ## Ethical Concerns
 1. Privacy
