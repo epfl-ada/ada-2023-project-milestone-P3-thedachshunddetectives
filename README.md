@@ -5,7 +5,7 @@ ada-2023-project-thedachshunddetectives created by GitHub Classroom
 ## Lights, Camera, ADA! Barbenheimer in Action
 
 ## Github Website:
-Before diving into the rest of our README and Notebook, here is our a link to our website: [mbonnassies.github.io ](https://mbonnassies.github.io/) 
+Before diving into the rest of our README and Notebook, here is our a link to our datastory: [mbonnassies.github.io ](https://mbonnassies.github.io/) 
 
 ## Abstract: 
 Hi Barbie!
@@ -19,6 +19,7 @@ Hi Barbie!
 * If we analyze nuances in the datasets, can we observe any relation to Barbie's positive nuances vs Oppenheimer's darker/negative nuances?
 * How do movie characters' personalities impact the success of a movie, and could we relate that to Barbenheimer?
 * How do different factors influence a movie's success through causal analysis?
+* What would Barbie and Oppenheimer have looked like if they had come out in 2012?
 
 
 ## Additional datasets (if any): 
