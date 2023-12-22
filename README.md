@@ -5,7 +5,7 @@ ada-2023-project-thedachshunddetectives created by GitHub Classroom
 ## Lights, Camera, ADA! Barbenheimer in Action
 
 ## Github Website:
-Before diving into the rest of our README and Notebook, here is our a link to our datastory: [mbonnassies.github.io ](https://mbonnassies.github.io/) 
+Before diving into the rest of our README and Notebook, here is the link to our datastory: [mbonnassies.github.io ](https://mbonnassies.github.io/) 
 
 ## Abstract: 
 Hi Barbie!
